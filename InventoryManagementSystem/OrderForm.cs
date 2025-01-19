@@ -27,15 +27,15 @@ namespace InventoryManagementSystem
             int i = 0;
             dgvOrder.Rows.Clear();
             cm = new SqlCommand("SELECT orderid, odate, O.pid, P.pname,O.cid, C.cname, qty, price, total  FROM tbOrder AS O JOIN tbCustomer AS C ON O.cid=C.cid JOIN tbProduct AS P ON O.pid=P.pid", con);
-            con.Open();
+            con.Open();//sql sorgusunu achir
             dr = cm.ExecuteReader();
             while (dr.Read())
             {
-                i++;
+                i++;//siralama uchun istifade edilir ve yeni bir row add edilir
                 dgvOrder.Rows.Add(i, dr[0].ToString(),Convert.ToDateTime( dr[1].ToString()).ToString("dd/MM/yyyy"), dr[2].ToString(), dr[3].ToString(), dr[4].ToString(), dr[5].ToString(), dr[6].ToString(), dr[7].ToString(), dr[8].ToString());
             }
-            dr.Close();
-            con.Close();
+            dr.Close();//data reade bgalnir
+            con.Close();//connection close edilir 
         }
 
         private void btnAdd_Click(object sender, EventArgs e)
@@ -61,7 +61,7 @@ namespace InventoryManagementSystem
                 cm = new SqlCommand("UPDATE tbProduct SET pqty=(pqty+@pqty) WHERE pid LIKE '" + dgvOrder.Rows[e.RowIndex].Cells[3].Value.ToString() + "'", con);
                 cm.Parameters.AddWithValue("@pqty", Convert.ToInt16(dgvOrder.Rows[e.RowIndex].Cells[3].Value.ToString()));
                 con.Open();
-                cm.ExecuteNonQuery();
+                cm.ExecuteNonQuery();//qaytardigi deyeri gostermir
                 con.Close();
 
             }

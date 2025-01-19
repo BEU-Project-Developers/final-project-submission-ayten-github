@@ -102,11 +102,11 @@ namespace InventoryManagementSystem
                     cm.Parameters.AddWithValue("@pprice", Convert.ToInt16(txtPPrice.Text));
                     cm.Parameters.AddWithValue("@pdescription", txtPDes.Text);
                     cm.Parameters.AddWithValue("@pcatagory", comboCat.Text);
-                    con.Open();
+                    con.Open();//connection achilir
                     cm.ExecuteNonQuery();
                     con.Close();
                     MessageBox.Show("Product has been updated succesfully");
-                    this.Dispose();
+                    this.Dispose();//formu baglayr
                 }
             }
             catch (Exception ex)

@@ -56,7 +56,7 @@ namespace InventoryManagementSystem
             dr = cm.ExecuteReader();
             while (dr.Read())
             {
-                i++;
+                i++;//elave edildikde nomre sayisi
                 dgvCustomer.Rows.Add(i, dr[0].ToString(), dr[1].ToString());
             }
             dr.Close();

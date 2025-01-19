@@ -63,6 +63,7 @@ namespace InventoryManagementSystem
         {
             try
             {
+                //categoryni update etmek
 
                 if (MessageBox.Show("Are you sure you want to update this category?", "Update Records", MessageBoxButtons.YesNo, MessageBoxIcon.Question) == DialogResult.Yes)
                 {

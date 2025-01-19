@@ -31,18 +31,18 @@ namespace InventoryManagementSystem
         private void openChilForm(Form childForm)
         {
             if (activeform != null)
-                activeform.Close();
-            activeform = childForm;
+                activeform.Close();//eger form aktivdirse o close olunur
+            activeform = childForm;//daha sonra ise aktiv child form olur
             childForm.TopLevel = false;
             childForm.FormBorderStyle = FormBorderStyle.None;
             childForm.Dock = DockStyle.Fill;
-            panelMain.Controls.Add(childForm);
-            panelMain.Tag = childForm;
-            childForm.BringToFront();
+            panelMain.Controls.Add(childForm);//artiq panele elave olunur 
+            panelMain.Tag = childForm;//referans daxil edr
+            childForm.BringToFront();//child formu digerlerinin qarshisni getiir
             childForm.Show();
 
         }
-        //bu methodla her hansi bir imageye klik etdiyimz zaman o formu daxil etsin
+        //bu methodla her hansi bir imageye klik etdiyimz zaman o formu ekranda gostersin
         private void btnUser_Click(object sender, EventArgs e)
         {
             openChilForm(new UserForm());

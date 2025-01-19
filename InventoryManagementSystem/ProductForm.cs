@@ -43,11 +43,11 @@ namespace InventoryManagementSystem
 
         private void btnAdd_Click(object sender, EventArgs e)
         {
-            ProductModuleForm moduleForm = new ProductModuleForm();
-            moduleForm.btnSave.Enabled = true;
-            moduleForm.btnUpdate.Enabled = false;
+            ProductModuleForm moduleForm = new ProductModuleForm();//yeni bir pform achilir
+            moduleForm.btnSave.Enabled = true;//save aktiv edilir
+            moduleForm.btnUpdate.Enabled = false;//ama updatede mehdudiyyet verir 
             moduleForm.ShowDialog();
-            LoadProduct();
+            LoadProduct();//project yenilenr
         }
 
         private void dgvProduct_CellContentClick(object sender, DataGridViewCellEventArgs e)
