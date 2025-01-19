@@ -55,7 +55,7 @@ namespace InventoryManagementSystem
         private void btnSave_Click(object sender, EventArgs e)
         {
             try
-            {
+            {//Passwordleri yoxlayriq ki,eger eyni deyilde warning qaytarsin
                 if (txtPass.Text != txtRepass.Text)
                 {
                     MessageBox.Show("Password is not same as repassword","Warninig",MessageBoxButtons.OK, MessageBoxIcon.Warning);

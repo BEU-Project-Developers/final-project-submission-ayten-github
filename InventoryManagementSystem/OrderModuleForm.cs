@@ -17,7 +17,7 @@ namespace InventoryManagementSystem
         SqlConnection con = new SqlConnection(@"Data Source=DESKTOP-89C4245;Initial Catalog=testsql;Integrated Security=True;Connect Timeout=30");
         SqlCommand cm = new SqlCommand();
         SqlDataReader dr;
-        int qty = 0;
+        int qty = 0;//ilkin olaraq sayi 0 verb daha sonra artirmaq
         public OrderModuleForm()
         {
             InitializeComponent();
@@ -104,7 +104,7 @@ namespace InventoryManagementSystem
         {
             getQty();
             if (Convert.ToInt16(numericUpDown1.Value) > qty)
-            {
+            {//eger movcud mehsuldan chox sayda daxil etsek bu warningi atacaq
                 MessageBox.Show("Quantity is not enough!", "Warning", MessageBoxButtons.OK, MessageBoxIcon.Warning);
                 numericUpDown1.Value = numericUpDown1.Value - 1;
                 return;
@@ -121,7 +121,7 @@ namespace InventoryManagementSystem
             try
             {
                 if (txtCId.Text == "")
-                {
+                {//eger customeri sechmeden order etsek bu exceptionu atmaq lazmdri olmasa return edb chixirq
                     MessageBox.Show("Pls select customer", "Warninig", MessageBoxButtons.OK, MessageBoxIcon.Warning);
                     return;
                 } 
@@ -130,7 +130,7 @@ namespace InventoryManagementSystem
                     MessageBox.Show("Pls select product", "Warninig", MessageBoxButtons.OK, MessageBoxIcon.Warning);
                     return;
                 }
-
+                
                 if (MessageBox.Show("Are you sure you want to insert this order?", "Saving Records", MessageBoxButtons.YesNo, MessageBoxIcon.Question) == DialogResult.Yes)
                 {
                     cm = new SqlCommand("INSERT INTO tbOrder(odate, pid, cid, qty, price, total)VALUES(@odate, @pid, @cid, @qty, @price, @total)", con);
@@ -145,7 +145,7 @@ namespace InventoryManagementSystem
                     con.Close();
                     MessageBox.Show("Order has been inserted succesfully");
                    
-
+                    //bu ise eger order etdiyimiz zaman mehsulun sayi azalri
                   cm = new SqlCommand("UPDATE tbProduct SET pqty=(pqty-@pqty) WHERE pid LIKE '" + txtPid.Text + "'", con);
                   cm.Parameters.AddWithValue("@pqty", Convert.ToInt16(numericUpDown1.Value));
                   con.Open();
@@ -160,6 +160,7 @@ namespace InventoryManagementSystem
                 MessageBox.Show(ex.Message);
             }
         }
+        //clear methodunu ishe saldiqda yazilinlari temizleyr(clear edr) ve dateni movcud vaxti gsterir
         public void Clear()
         {
             txtCId.Clear();
@@ -177,7 +178,7 @@ namespace InventoryManagementSystem
         {
             Clear();
         }
-
+        //mehsulun neche sayda olmasini elde edirik bu methodla,chunki bunun sayesinde saydan chox order etmeyin qarshisini alacaq
         public void getQty()
         {
             cm = new SqlCommand("SELECT pqty FROM tbProduct WHERE pid='" + txtPid.Text + "' ", con);

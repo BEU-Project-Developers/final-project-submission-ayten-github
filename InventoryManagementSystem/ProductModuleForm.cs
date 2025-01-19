@@ -105,7 +105,7 @@ namespace InventoryManagementSystem
                     con.Open();
                     cm.ExecuteNonQuery();
                     con.Close();
-                    MessageBox.Show("Product has been saved succesfully");
+                    MessageBox.Show("Product has been updated succesfully");
                     this.Dispose();
                 }
             }

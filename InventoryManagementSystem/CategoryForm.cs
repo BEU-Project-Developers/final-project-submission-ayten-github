@@ -22,7 +22,7 @@ namespace InventoryManagementSystem
             LoadCategory(); 
         }
         public void LoadCategory()
-        {
+        {//categoryileri getirmek
             int i = 0;
             dgvCategory.Rows.Clear();
             cm = new SqlCommand("SELECT * FROM tbCategory", con);
@@ -65,7 +65,7 @@ namespace InventoryManagementSystem
             }
             LoadCategory();
         }
-
+        //yeni birini daxil etdiyimizde update etmeye icaze vermemk
         private void btnAdd_Click(object sender, EventArgs e)
         {
             CategoryModuleForm moduleForm = new CategoryModuleForm();

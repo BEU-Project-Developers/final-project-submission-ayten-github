@@ -42,7 +42,7 @@ namespace InventoryManagementSystem
             childForm.Show();
 
         }
-
+        //bu methodla her hansi bir imageye klik etdiyimz zaman o formu daxil etsin
         private void btnUser_Click(object sender, EventArgs e)
         {
             openChilForm(new UserForm());

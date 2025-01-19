@@ -24,7 +24,7 @@ namespace InventoryManagementSystem
         private void btnSave_Click(object sender, EventArgs e)
         {
             try
-            {
+            {//customeri save etmek
 
                 if (MessageBox.Show("Are you sure you want to save this customer?", "Saving Records", MessageBoxButtons.YesNo, MessageBoxIcon.Question) == DialogResult.Yes)
                 {
@@ -71,7 +71,7 @@ namespace InventoryManagementSystem
         private void btnUpdate_Click(object sender, EventArgs e)
         {
             try
-            {
+            {//cusomerin infolarini update etmek
 
                 if (MessageBox.Show("Are you sure you want to update this customer?", "Update Records", MessageBoxButtons.YesNo, MessageBoxIcon.Question) == DialogResult.Yes)
                 {
