@@ -71,7 +71,7 @@ namespace InventoryManagementSystem
                     con.Open();
                     cm.ExecuteNonQuery();
                     con.Close();
-                    MessageBox.Show("Category has been saved succesfully");
+                    MessageBox.Show("Category has been updated succesfully");
                     this.Dispose();
                 }
             }

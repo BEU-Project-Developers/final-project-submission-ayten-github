@@ -117,7 +117,7 @@ namespace InventoryManagementSystem
                     con.Open();
                     cm.ExecuteNonQuery();
                     con.Close();
-                    MessageBox.Show("User has been saved succesfully");
+                    MessageBox.Show("User has been update succesfully");
                     this.Dispose();
                 }
             }

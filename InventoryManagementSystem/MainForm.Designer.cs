@@ -74,7 +74,7 @@
             this.panel1.Location = new System.Drawing.Point(0, 0);
             this.panel1.Margin = new System.Windows.Forms.Padding(4);
             this.panel1.Name = "panel1";
-            this.panel1.Size = new System.Drawing.Size(1376, 170);
+            this.panel1.Size = new System.Drawing.Size(1347, 170);
             this.panel1.TabIndex = 0;
             // 
             // label7
@@ -133,9 +133,9 @@
             this.btnCustomer.Image = ((System.Drawing.Image)(resources.GetObject("btnCustomer.Image")));
             this.btnCustomer.ImageHover = ((System.Drawing.Image)(resources.GetObject("btnCustomer.ImageHover")));
             this.btnCustomer.ImageNormal = ((System.Drawing.Image)(resources.GetObject("btnCustomer.ImageNormal")));
-            this.btnCustomer.Location = new System.Drawing.Point(369, 50);
+            this.btnCustomer.Location = new System.Drawing.Point(375, 50);
             this.btnCustomer.Name = "btnCustomer";
-            this.btnCustomer.Size = new System.Drawing.Size(122, 75);
+            this.btnCustomer.Size = new System.Drawing.Size(116, 75);
             this.btnCustomer.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.btnCustomer.TabIndex = 15;
             this.btnCustomer.TabStop = false;
@@ -146,9 +146,9 @@
             this.btnCategory.Image = ((System.Drawing.Image)(resources.GetObject("btnCategory.Image")));
             this.btnCategory.ImageHover = ((System.Drawing.Image)(resources.GetObject("btnCategory.ImageHover")));
             this.btnCategory.ImageNormal = ((System.Drawing.Image)(resources.GetObject("btnCategory.ImageNormal")));
-            this.btnCategory.Location = new System.Drawing.Point(518, 50);
+            this.btnCategory.Location = new System.Drawing.Point(532, 50);
             this.btnCategory.Name = "btnCategory";
-            this.btnCategory.Size = new System.Drawing.Size(122, 75);
+            this.btnCategory.Size = new System.Drawing.Size(120, 75);
             this.btnCategory.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.btnCategory.TabIndex = 14;
             this.btnCategory.TabStop = false;
@@ -159,9 +159,9 @@
             this.btnOrder.Image = ((System.Drawing.Image)(resources.GetObject("btnOrder.Image")));
             this.btnOrder.ImageHover = ((System.Drawing.Image)(resources.GetObject("btnOrder.ImageHover")));
             this.btnOrder.ImageNormal = ((System.Drawing.Image)(resources.GetObject("btnOrder.ImageNormal")));
-            this.btnOrder.Location = new System.Drawing.Point(879, 50);
+            this.btnOrder.Location = new System.Drawing.Point(896, 50);
             this.btnOrder.Name = "btnOrder";
-            this.btnOrder.Size = new System.Drawing.Size(122, 75);
+            this.btnOrder.Size = new System.Drawing.Size(105, 75);
             this.btnOrder.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.btnOrder.TabIndex = 13;
             this.btnOrder.TabStop = false;
@@ -172,9 +172,9 @@
             this.btnUser.Image = ((System.Drawing.Image)(resources.GetObject("btnUser.Image")));
             this.btnUser.ImageHover = ((System.Drawing.Image)(resources.GetObject("btnUser.ImageHover")));
             this.btnUser.ImageNormal = ((System.Drawing.Image)(resources.GetObject("btnUser.ImageNormal")));
-            this.btnUser.Location = new System.Drawing.Point(710, 50);
+            this.btnUser.Location = new System.Drawing.Point(716, 50);
             this.btnUser.Name = "btnUser";
-            this.btnUser.Size = new System.Drawing.Size(122, 75);
+            this.btnUser.Size = new System.Drawing.Size(116, 75);
             this.btnUser.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.btnUser.TabIndex = 12;
             this.btnUser.TabStop = false;
@@ -185,9 +185,9 @@
             this.btnProduct.Image = ((System.Drawing.Image)(resources.GetObject("btnProduct.Image")));
             this.btnProduct.ImageHover = ((System.Drawing.Image)(resources.GetObject("btnProduct.ImageHover")));
             this.btnProduct.ImageNormal = ((System.Drawing.Image)(resources.GetObject("btnProduct.ImageNormal")));
-            this.btnProduct.Location = new System.Drawing.Point(227, 50);
+            this.btnProduct.Location = new System.Drawing.Point(240, 50);
             this.btnProduct.Name = "btnProduct";
-            this.btnProduct.Size = new System.Drawing.Size(122, 75);
+            this.btnProduct.Size = new System.Drawing.Size(109, 75);
             this.btnProduct.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.btnProduct.TabIndex = 11;
             this.btnProduct.TabStop = false;
@@ -198,7 +198,7 @@
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label1.ForeColor = System.Drawing.Color.Transparent;
-            this.label1.Location = new System.Drawing.Point(1076, 123);
+            this.label1.Location = new System.Drawing.Point(1060, 123);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(297, 38);
             this.label1.TabIndex = 10;
@@ -219,10 +219,10 @@
             // 
             this.panel2.BackColor = System.Drawing.Color.MediumBlue;
             this.panel2.Dock = System.Windows.Forms.DockStyle.Bottom;
-            this.panel2.Location = new System.Drawing.Point(0, 716);
+            this.panel2.Location = new System.Drawing.Point(0, 684);
             this.panel2.Margin = new System.Windows.Forms.Padding(4);
             this.panel2.Name = "panel2";
-            this.panel2.Size = new System.Drawing.Size(1376, 34);
+            this.panel2.Size = new System.Drawing.Size(1347, 34);
             this.panel2.TabIndex = 1;
             this.panel2.Paint += new System.Windows.Forms.PaintEventHandler(this.panel2_Paint);
             // 
@@ -233,7 +233,7 @@
             this.panelMain.Location = new System.Drawing.Point(0, 170);
             this.panelMain.Margin = new System.Windows.Forms.Padding(4);
             this.panelMain.Name = "panelMain";
-            this.panelMain.Size = new System.Drawing.Size(1376, 546);
+            this.panelMain.Size = new System.Drawing.Size(1347, 514);
             this.panelMain.TabIndex = 2;
             // 
             // pictureBox1
@@ -251,7 +251,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(16F, 33F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1376, 750);
+            this.ClientSize = new System.Drawing.Size(1347, 718);
             this.Controls.Add(this.panelMain);
             this.Controls.Add(this.panel2);
             this.Controls.Add(this.panel1);
