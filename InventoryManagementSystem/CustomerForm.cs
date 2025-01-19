@@ -58,7 +58,7 @@ namespace InventoryManagementSystem
                 customerModule.txtCPhone.Text = dgvCustomer.Rows[e.RowIndex].Cells[3].Value.ToString();
 
                 customerModule.btnSave.Enabled = false;
-                customerModule.btnUpdate.Enabled = true;
+                customerModule.btnUpdate.Enabled = true;//edit etdiyimiz zamen yalniz update ede bilerik save deyil 
                 customerModule.ShowDialog();
             }
             else if (colName == "Delete")

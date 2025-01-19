@@ -126,7 +126,7 @@ namespace InventoryManagementSystem
                     return;
                 } 
                 if (txtPid.Text == "")
-                {
+                {//eger product daxil etmesek warning verecek
                     MessageBox.Show("Pls select product", "Warninig", MessageBoxButtons.OK, MessageBoxIcon.Warning);
                     return;
                 }

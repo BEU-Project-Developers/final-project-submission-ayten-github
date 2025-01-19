@@ -46,6 +46,7 @@ namespace InventoryManagementSystem
 
         private void pictureBoxClose_Click(object sender, EventArgs e)
         {
+            //pictureye klik etdikde applicationdan chixilmasi
             if(MessageBox.Show("Exit aplication", "Confirm", MessageBoxButtons.YesNo, MessageBoxIcon.Question) == DialogResult.Yes)
             {
                 Application.Exit();
@@ -63,7 +64,7 @@ namespace InventoryManagementSystem
                 dr=cm.ExecuteReader();
                 dr.Read();
                 if (dr.HasRows) 
-                {
+                {//burda daxil olanda fullnamenin verilmesi
                     MessageBox.Show("Welcome " + dr["fullname"].ToString() + " ", "Acces", MessageBoxButtons.OK, MessageBoxIcon.Information);
                     MainForm mainForm=new MainForm();   
                     mainForm.ShowDialog();

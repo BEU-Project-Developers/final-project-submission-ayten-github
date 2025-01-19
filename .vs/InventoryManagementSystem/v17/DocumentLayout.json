@@ -3,20 +3,72 @@
   "WorkspaceRootPath": "C:\\Users\\ASUS\\Desktop\\chsarpfinalproject\\InventoryManagementSystem\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{77691F9B-8901-442E-8DA1-9C33C1201328}|InventoryManagementSystem\\InventoryManagementSystem.csproj|C:\\Users\\ASUS\\Desktop\\chsarpfinalproject\\InventoryManagementSystem\\inventorymanagementsystem\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{77691F9B-8901-442E-8DA1-9C33C1201328}|InventoryManagementSystem\\InventoryManagementSystem.csproj|solutionrelative:inventorymanagementsystem\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{77691F9B-8901-442E-8DA1-9C33C1201328}|InventoryManagementSystem\\InventoryManagementSystem.csproj|C:\\Users\\ASUS\\Desktop\\chsarpfinalproject\\InventoryManagementSystem\\inventorymanagementsystem\\categoryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77691F9B-8901-442E-8DA1-9C33C1201328}|InventoryManagementSystem\\InventoryManagementSystem.csproj|solutionrelative:inventorymanagementsystem\\categoryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{77691F9B-8901-442E-8DA1-9C33C1201328}|InventoryManagementSystem\\InventoryManagementSystem.csproj|C:\\Users\\ASUS\\Desktop\\chsarpfinalproject\\InventoryManagementSystem\\inventorymanagementsystem\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{77691F9B-8901-442E-8DA1-9C33C1201328}|InventoryManagementSystem\\InventoryManagementSystem.csproj|solutionrelative:inventorymanagementsystem\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{77691F9B-8901-442E-8DA1-9C33C1201328}|InventoryManagementSystem\\InventoryManagementSystem.csproj|C:\\Users\\ASUS\\Desktop\\chsarpfinalproject\\InventoryManagementSystem\\inventorymanagementsystem\\categoryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{77691F9B-8901-442E-8DA1-9C33C1201328}|InventoryManagementSystem\\InventoryManagementSystem.csproj|solutionrelative:inventorymanagementsystem\\categoryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77691F9B-8901-442E-8DA1-9C33C1201328}|InventoryManagementSystem\\InventoryManagementSystem.csproj|C:\\Users\\ASUS\\Desktop\\chsarpfinalproject\\InventoryManagementSystem\\inventorymanagementsystem\\categorymoduleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{77691F9B-8901-442E-8DA1-9C33C1201328}|InventoryManagementSystem\\InventoryManagementSystem.csproj|solutionrelative:inventorymanagementsystem\\categorymoduleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77691F9B-8901-442E-8DA1-9C33C1201328}|InventoryManagementSystem\\InventoryManagementSystem.csproj|C:\\Users\\ASUS\\Desktop\\chsarpfinalproject\\InventoryManagementSystem\\inventorymanagementsystem\\customerbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{77691F9B-8901-442E-8DA1-9C33C1201328}|InventoryManagementSystem\\InventoryManagementSystem.csproj|solutionrelative:inventorymanagementsystem\\customerbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77691F9B-8901-442E-8DA1-9C33C1201328}|InventoryManagementSystem\\InventoryManagementSystem.csproj|C:\\Users\\ASUS\\Desktop\\chsarpfinalproject\\InventoryManagementSystem\\inventorymanagementsystem\\categorymoduleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77691F9B-8901-442E-8DA1-9C33C1201328}|InventoryManagementSystem\\InventoryManagementSystem.csproj|solutionrelative:inventorymanagementsystem\\categorymoduleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77691F9B-8901-442E-8DA1-9C33C1201328}|InventoryManagementSystem\\InventoryManagementSystem.csproj|C:\\Users\\ASUS\\Desktop\\chsarpfinalproject\\InventoryManagementSystem\\inventorymanagementsystem\\customerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77691F9B-8901-442E-8DA1-9C33C1201328}|InventoryManagementSystem\\InventoryManagementSystem.csproj|solutionrelative:inventorymanagementsystem\\customerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77691F9B-8901-442E-8DA1-9C33C1201328}|InventoryManagementSystem\\InventoryManagementSystem.csproj|C:\\Users\\ASUS\\Desktop\\chsarpfinalproject\\InventoryManagementSystem\\inventorymanagementsystem\\customerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{77691F9B-8901-442E-8DA1-9C33C1201328}|InventoryManagementSystem\\InventoryManagementSystem.csproj|solutionrelative:inventorymanagementsystem\\customerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77691F9B-8901-442E-8DA1-9C33C1201328}|InventoryManagementSystem\\InventoryManagementSystem.csproj|C:\\Users\\ASUS\\Desktop\\chsarpfinalproject\\InventoryManagementSystem\\inventorymanagementsystem\\customermoduleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77691F9B-8901-442E-8DA1-9C33C1201328}|InventoryManagementSystem\\InventoryManagementSystem.csproj|solutionrelative:inventorymanagementsystem\\customermoduleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77691F9B-8901-442E-8DA1-9C33C1201328}|InventoryManagementSystem\\InventoryManagementSystem.csproj|C:\\Users\\ASUS\\Desktop\\chsarpfinalproject\\InventoryManagementSystem\\inventorymanagementsystem\\customermoduleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{77691F9B-8901-442E-8DA1-9C33C1201328}|InventoryManagementSystem\\InventoryManagementSystem.csproj|solutionrelative:inventorymanagementsystem\\customermoduleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77691F9B-8901-442E-8DA1-9C33C1201328}|InventoryManagementSystem\\InventoryManagementSystem.csproj|C:\\Users\\ASUS\\Desktop\\chsarpfinalproject\\InventoryManagementSystem\\inventorymanagementsystem\\productform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77691F9B-8901-442E-8DA1-9C33C1201328}|InventoryManagementSystem\\InventoryManagementSystem.csproj|solutionrelative:inventorymanagementsystem\\productform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77691F9B-8901-442E-8DA1-9C33C1201328}|InventoryManagementSystem\\InventoryManagementSystem.csproj|C:\\Users\\ASUS\\Desktop\\chsarpfinalproject\\InventoryManagementSystem\\inventorymanagementsystem\\productform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{77691F9B-8901-442E-8DA1-9C33C1201328}|InventoryManagementSystem\\InventoryManagementSystem.csproj|solutionrelative:inventorymanagementsystem\\productform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77691F9B-8901-442E-8DA1-9C33C1201328}|InventoryManagementSystem\\InventoryManagementSystem.csproj|C:\\Users\\ASUS\\Desktop\\chsarpfinalproject\\InventoryManagementSystem\\inventorymanagementsystem\\ordermoduleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77691F9B-8901-442E-8DA1-9C33C1201328}|InventoryManagementSystem\\InventoryManagementSystem.csproj|solutionrelative:inventorymanagementsystem\\ordermoduleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77691F9B-8901-442E-8DA1-9C33C1201328}|InventoryManagementSystem\\InventoryManagementSystem.csproj|C:\\Users\\ASUS\\Desktop\\chsarpfinalproject\\InventoryManagementSystem\\inventorymanagementsystem\\ordermoduleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{77691F9B-8901-442E-8DA1-9C33C1201328}|InventoryManagementSystem\\InventoryManagementSystem.csproj|solutionrelative:inventorymanagementsystem\\ordermoduleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{77691F9B-8901-442E-8DA1-9C33C1201328}|InventoryManagementSystem\\InventoryManagementSystem.csproj|C:\\Users\\ASUS\\Desktop\\chsarpfinalproject\\InventoryManagementSystem\\inventorymanagementsystem\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{77691F9B-8901-442E-8DA1-9C33C1201328}|InventoryManagementSystem\\InventoryManagementSystem.csproj|solutionrelative:inventorymanagementsystem\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{77691F9B-8901-442E-8DA1-9C33C1201328}|InventoryManagementSystem\\InventoryManagementSystem.csproj|c:\\users\\asus\\desktop\\chsarpfinalproject\\inventorymanagementsystem\\inventorymanagementsystem\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{77691F9B-8901-442E-8DA1-9C33C1201328}|InventoryManagementSystem\\InventoryManagementSystem.csproj|C:\\Users\\ASUS\\Desktop\\chsarpfinalproject\\InventoryManagementSystem\\inventorymanagementsystem\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{77691F9B-8901-442E-8DA1-9C33C1201328}|InventoryManagementSystem\\InventoryManagementSystem.csproj|solutionrelative:inventorymanagementsystem\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77691F9B-8901-442E-8DA1-9C33C1201328}|InventoryManagementSystem\\InventoryManagementSystem.csproj|c:\\users\\asus\\desktop\\chsarpfinalproject\\inventorymanagementsystem\\inventorymanagementsystem\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77691F9B-8901-442E-8DA1-9C33C1201328}|InventoryManagementSystem\\InventoryManagementSystem.csproj|solutionrelative:inventorymanagementsystem\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77691F9B-8901-442E-8DA1-9C33C1201328}|InventoryManagementSystem\\InventoryManagementSystem.csproj|C:\\Users\\ASUS\\Desktop\\chsarpfinalproject\\InventoryManagementSystem\\inventorymanagementsystem\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{77691F9B-8901-442E-8DA1-9C33C1201328}|InventoryManagementSystem\\InventoryManagementSystem.csproj|solutionrelative:inventorymanagementsystem\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{77691F9B-8901-442E-8DA1-9C33C1201328}|InventoryManagementSystem\\InventoryManagementSystem.csproj|C:\\Users\\ASUS\\Desktop\\chsarpfinalproject\\InventoryManagementSystem\\inventorymanagementsystem\\userform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
@@ -43,38 +95,6 @@
       "RelativeMoniker": "D:0:0:{77691F9B-8901-442E-8DA1-9C33C1201328}|InventoryManagementSystem\\InventoryManagementSystem.csproj|solutionrelative:inventorymanagementsystem\\productmoduleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{77691F9B-8901-442E-8DA1-9C33C1201328}|InventoryManagementSystem\\InventoryManagementSystem.csproj|C:\\Users\\ASUS\\Desktop\\chsarpfinalproject\\InventoryManagementSystem\\inventorymanagementsystem\\productform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{77691F9B-8901-442E-8DA1-9C33C1201328}|InventoryManagementSystem\\InventoryManagementSystem.csproj|solutionrelative:inventorymanagementsystem\\productform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{77691F9B-8901-442E-8DA1-9C33C1201328}|InventoryManagementSystem\\InventoryManagementSystem.csproj|C:\\Users\\ASUS\\Desktop\\chsarpfinalproject\\InventoryManagementSystem\\inventorymanagementsystem\\productform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{77691F9B-8901-442E-8DA1-9C33C1201328}|InventoryManagementSystem\\InventoryManagementSystem.csproj|solutionrelative:inventorymanagementsystem\\productform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{77691F9B-8901-442E-8DA1-9C33C1201328}|InventoryManagementSystem\\InventoryManagementSystem.csproj|C:\\Users\\ASUS\\Desktop\\chsarpfinalproject\\InventoryManagementSystem\\inventorymanagementsystem\\ordermoduleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{77691F9B-8901-442E-8DA1-9C33C1201328}|InventoryManagementSystem\\InventoryManagementSystem.csproj|solutionrelative:inventorymanagementsystem\\ordermoduleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{77691F9B-8901-442E-8DA1-9C33C1201328}|InventoryManagementSystem\\InventoryManagementSystem.csproj|C:\\Users\\ASUS\\Desktop\\chsarpfinalproject\\InventoryManagementSystem\\inventorymanagementsystem\\ordermoduleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{77691F9B-8901-442E-8DA1-9C33C1201328}|InventoryManagementSystem\\InventoryManagementSystem.csproj|solutionrelative:inventorymanagementsystem\\ordermoduleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{77691F9B-8901-442E-8DA1-9C33C1201328}|InventoryManagementSystem\\InventoryManagementSystem.csproj|C:\\Users\\ASUS\\Desktop\\chsarpfinalproject\\InventoryManagementSystem\\inventorymanagementsystem\\categoryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{77691F9B-8901-442E-8DA1-9C33C1201328}|InventoryManagementSystem\\InventoryManagementSystem.csproj|solutionrelative:inventorymanagementsystem\\categoryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{77691F9B-8901-442E-8DA1-9C33C1201328}|InventoryManagementSystem\\InventoryManagementSystem.csproj|C:\\Users\\ASUS\\Desktop\\chsarpfinalproject\\InventoryManagementSystem\\inventorymanagementsystem\\categoryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{77691F9B-8901-442E-8DA1-9C33C1201328}|InventoryManagementSystem\\InventoryManagementSystem.csproj|solutionrelative:inventorymanagementsystem\\categoryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{77691F9B-8901-442E-8DA1-9C33C1201328}|InventoryManagementSystem\\InventoryManagementSystem.csproj|C:\\Users\\ASUS\\Desktop\\chsarpfinalproject\\InventoryManagementSystem\\inventorymanagementsystem\\customermoduleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{77691F9B-8901-442E-8DA1-9C33C1201328}|InventoryManagementSystem\\InventoryManagementSystem.csproj|solutionrelative:inventorymanagementsystem\\customermoduleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{77691F9B-8901-442E-8DA1-9C33C1201328}|InventoryManagementSystem\\InventoryManagementSystem.csproj|C:\\Users\\ASUS\\Desktop\\chsarpfinalproject\\InventoryManagementSystem\\inventorymanagementsystem\\customermoduleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{77691F9B-8901-442E-8DA1-9C33C1201328}|InventoryManagementSystem\\InventoryManagementSystem.csproj|solutionrelative:inventorymanagementsystem\\customermoduleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{77691F9B-8901-442E-8DA1-9C33C1201328}|InventoryManagementSystem\\InventoryManagementSystem.csproj|C:\\Users\\ASUS\\Desktop\\chsarpfinalproject\\InventoryManagementSystem\\inventorymanagementsystem\\orderform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{77691F9B-8901-442E-8DA1-9C33C1201328}|InventoryManagementSystem\\InventoryManagementSystem.csproj|solutionrelative:inventorymanagementsystem\\orderform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -83,24 +103,8 @@
       "RelativeMoniker": "D:0:0:{77691F9B-8901-442E-8DA1-9C33C1201328}|InventoryManagementSystem\\InventoryManagementSystem.csproj|solutionrelative:inventorymanagementsystem\\orderform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{77691F9B-8901-442E-8DA1-9C33C1201328}|InventoryManagementSystem\\InventoryManagementSystem.csproj|C:\\Users\\ASUS\\Desktop\\chsarpfinalproject\\InventoryManagementSystem\\inventorymanagementsystem\\customerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{77691F9B-8901-442E-8DA1-9C33C1201328}|InventoryManagementSystem\\InventoryManagementSystem.csproj|solutionrelative:inventorymanagementsystem\\customerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{77691F9B-8901-442E-8DA1-9C33C1201328}|InventoryManagementSystem\\InventoryManagementSystem.csproj|C:\\Users\\ASUS\\Desktop\\chsarpfinalproject\\InventoryManagementSystem\\inventorymanagementsystem\\categorymoduleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{77691F9B-8901-442E-8DA1-9C33C1201328}|InventoryManagementSystem\\InventoryManagementSystem.csproj|solutionrelative:inventorymanagementsystem\\categorymoduleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{77691F9B-8901-442E-8DA1-9C33C1201328}|InventoryManagementSystem\\InventoryManagementSystem.csproj|C:\\Users\\ASUS\\Desktop\\chsarpfinalproject\\InventoryManagementSystem\\inventorymanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{77691F9B-8901-442E-8DA1-9C33C1201328}|InventoryManagementSystem\\InventoryManagementSystem.csproj|solutionrelative:inventorymanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{77691F9B-8901-442E-8DA1-9C33C1201328}|InventoryManagementSystem\\InventoryManagementSystem.csproj|C:\\Users\\ASUS\\Desktop\\chsarpfinalproject\\InventoryManagementSystem\\inventorymanagementsystem\\categorymoduleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{77691F9B-8901-442E-8DA1-9C33C1201328}|InventoryManagementSystem\\InventoryManagementSystem.csproj|solutionrelative:inventorymanagementsystem\\categorymoduleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{77691F9B-8901-442E-8DA1-9C33C1201328}|InventoryManagementSystem\\InventoryManagementSystem.csproj|C:\\Users\\ASUS\\Desktop\\chsarpfinalproject\\InventoryManagementSystem\\inventorymanagementsystem\\customerbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{77691F9B-8901-442E-8DA1-9C33C1201328}|InventoryManagementSystem\\InventoryManagementSystem.csproj|solutionrelative:inventorymanagementsystem\\customerbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|InventoryManagementSystem||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
@@ -124,10 +128,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{77691F9B-8901-442E-8DA1-9C33C1201328}|InventoryManagementSystem\\InventoryManagementSystem.csproj|C:\\Users\\ASUS\\Desktop\\chsarpfinalproject\\InventoryManagementSystem\\inventorymanagementsystem\\customerbutton.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{77691F9B-8901-442E-8DA1-9C33C1201328}|InventoryManagementSystem\\InventoryManagementSystem.csproj|solutionrelative:inventorymanagementsystem\\customerbutton.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{77691F9B-8901-442E-8DA1-9C33C1201328}|InventoryManagementSystem\\InventoryManagementSystem.csproj|C:\\Users\\ASUS\\Desktop\\chsarpfinalproject\\InventoryManagementSystem\\inventorymanagementsystem\\customerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{77691F9B-8901-442E-8DA1-9C33C1201328}|InventoryManagementSystem\\InventoryManagementSystem.csproj|solutionrelative:inventorymanagementsystem\\customerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -137,7 +137,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 14,
           "Children": [
             {
               "$type": "Bookmark",
@@ -153,7 +153,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 15,
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\chsarpfinalproject\\InventoryManagementSystem\\InventoryManagementSystem\\LoginForm.cs",
+              "RelativeDocumentMoniker": "InventoryManagementSystem\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\chsarpfinalproject\\InventoryManagementSystem\\InventoryManagementSystem\\LoginForm.cs",
+              "RelativeToolTip": "InventoryManagementSystem\\LoginForm.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAwwDAAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T20:21:47.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "MainForm.cs [Design]",
               "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\chsarpfinalproject\\InventoryManagementSystem\\InventoryManagementSystem\\MainForm.cs",
               "RelativeDocumentMoniker": "InventoryManagementSystem\\MainForm.cs",
@@ -165,7 +178,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 25,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\chsarpfinalproject\\InventoryManagementSystem\\InventoryManagementSystem\\Program.cs",
               "RelativeDocumentMoniker": "InventoryManagementSystem\\Program.cs",
@@ -177,19 +190,18 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 19,
               "Title": "UserModuleForm.cs [Design]",
               "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\chsarpfinalproject\\InventoryManagementSystem\\InventoryManagementSystem\\UserModuleForm.cs",
               "RelativeDocumentMoniker": "InventoryManagementSystem\\UserModuleForm.cs",
               "ToolTip": "C:\\Users\\ASUS\\Desktop\\chsarpfinalproject\\InventoryManagementSystem\\InventoryManagementSystem\\UserModuleForm.cs [Design]",
               "RelativeToolTip": "InventoryManagementSystem\\UserModuleForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-21T11:53:23.839Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-11-21T11:53:23.839Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 2,
               "Title": "CategoryModuleForm.cs [Design]",
               "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\chsarpfinalproject\\InventoryManagementSystem\\InventoryManagementSystem\\CategoryModuleForm.cs",
               "RelativeDocumentMoniker": "InventoryManagementSystem\\CategoryModuleForm.cs",
@@ -201,7 +213,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 27,
               "Title": "App.config",
               "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\chsarpfinalproject\\InventoryManagementSystem\\InventoryManagementSystem\\App.config",
               "RelativeDocumentMoniker": "InventoryManagementSystem\\App.config",
@@ -214,7 +226,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 16,
               "Title": "LoginForm.cs [Design]",
               "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\chsarpfinalproject\\InventoryManagementSystem\\InventoryManagementSystem\\LoginForm.cs",
               "RelativeDocumentMoniker": "InventoryManagementSystem\\LoginForm.cs",
@@ -226,20 +238,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "LoginForm.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\chsarpfinalproject\\InventoryManagementSystem\\InventoryManagementSystem\\LoginForm.cs",
-              "RelativeDocumentMoniker": "InventoryManagementSystem\\LoginForm.cs",
-              "ToolTip": "C:\\Users\\ASUS\\Desktop\\chsarpfinalproject\\InventoryManagementSystem\\InventoryManagementSystem\\LoginForm.cs",
-              "RelativeToolTip": "InventoryManagementSystem\\LoginForm.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-20T20:21:47.176Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 29,
               "Title": "Settings.settings",
               "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\chsarpfinalproject\\InventoryManagementSystem\\InventoryManagementSystem\\Properties\\Settings.settings",
               "RelativeDocumentMoniker": "InventoryManagementSystem\\Properties\\Settings.settings",
@@ -251,7 +250,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 26,
               "Title": "InventoryManagementSystem",
               "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\chsarpfinalproject\\InventoryManagementSystem\\InventoryManagementSystem\\InventoryManagementSystem.csproj",
               "RelativeDocumentMoniker": "InventoryManagementSystem\\InventoryManagementSystem.csproj",
@@ -262,46 +261,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 7,
               "Title": "CustomerModuleForm.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\chsarpfinalproject\\InventoryManagementSystem\\InventoryManagementSystem\\CustomerModuleForm.cs",
               "RelativeDocumentMoniker": "InventoryManagementSystem\\CustomerModuleForm.cs",
               "ToolTip": "C:\\Users\\ASUS\\Desktop\\chsarpfinalproject\\InventoryManagementSystem\\InventoryManagementSystem\\CustomerModuleForm.cs",
               "RelativeToolTip": "InventoryManagementSystem\\CustomerModuleForm.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEkAAAAwAAAAAAAAAA==",
+              "ViewState": "AgIAACEAAAAAAAAAAAAYwDQAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-25T21:18:21.234Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 4,
               "Title": "CategoryModuleForm.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\chsarpfinalproject\\InventoryManagementSystem\\InventoryManagementSystem\\CategoryModuleForm.cs",
               "RelativeDocumentMoniker": "InventoryManagementSystem\\CategoryModuleForm.cs",
               "ToolTip": "C:\\Users\\ASUS\\Desktop\\chsarpfinalproject\\InventoryManagementSystem\\InventoryManagementSystem\\CategoryModuleForm.cs",
               "RelativeToolTip": "InventoryManagementSystem\\CategoryModuleForm.cs",
-              "ViewState": "AgIAACYAAAAAAAAAAAAhwEkAAAA+AAAAAAAAAA==",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAYwDoAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-25T21:10:56.078Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 0,
               "Title": "CategoryForm.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\chsarpfinalproject\\InventoryManagementSystem\\InventoryManagementSystem\\CategoryForm.cs",
               "RelativeDocumentMoniker": "InventoryManagementSystem\\CategoryForm.cs",
               "ToolTip": "C:\\Users\\ASUS\\Desktop\\chsarpfinalproject\\InventoryManagementSystem\\InventoryManagementSystem\\CategoryForm.cs",
               "RelativeToolTip": "InventoryManagementSystem\\CategoryForm.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEMAAABDAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAswCkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-25T20:28:09.34Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 1,
               "Title": "CategoryForm.cs [Design]",
               "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\chsarpfinalproject\\InventoryManagementSystem\\InventoryManagementSystem\\CategoryForm.cs",
               "RelativeDocumentMoniker": "InventoryManagementSystem\\CategoryForm.cs",
@@ -313,7 +312,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 23,
               "Title": "OrderForm.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\chsarpfinalproject\\InventoryManagementSystem\\InventoryManagementSystem\\OrderForm.cs",
               "RelativeDocumentMoniker": "InventoryManagementSystem\\OrderForm.cs",
@@ -321,25 +320,24 @@
               "RelativeToolTip": "InventoryManagementSystem\\OrderForm.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAABCAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-25T07:47:29.561Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-25T07:47:29.561Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 5,
               "Title": "CustomerForm.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\chsarpfinalproject\\InventoryManagementSystem\\InventoryManagementSystem\\CustomerForm.cs",
               "RelativeDocumentMoniker": "InventoryManagementSystem\\CustomerForm.cs",
               "ToolTip": "C:\\Users\\ASUS\\Desktop\\chsarpfinalproject\\InventoryManagementSystem\\InventoryManagementSystem\\CustomerForm.cs",
               "RelativeToolTip": "InventoryManagementSystem\\CustomerForm.cs",
-              "ViewState": "AgIAACcAAAAAAAAAAAAYwDwAAAA2AAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAxwEkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-25T07:00:28.606Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 8,
               "Title": "CustomerModuleForm.cs [Design]",
               "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\chsarpfinalproject\\InventoryManagementSystem\\InventoryManagementSystem\\CustomerModuleForm.cs",
               "RelativeDocumentMoniker": "InventoryManagementSystem\\CustomerModuleForm.cs",
@@ -351,7 +349,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 6,
               "Title": "CustomerForm.cs [Design]",
               "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\chsarpfinalproject\\InventoryManagementSystem\\InventoryManagementSystem\\CustomerForm.cs",
               "RelativeDocumentMoniker": "InventoryManagementSystem\\CustomerForm.cs",
@@ -363,20 +361,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 11,
               "Title": "OrderModuleForm.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\chsarpfinalproject\\InventoryManagementSystem\\InventoryManagementSystem\\OrderModuleForm.cs",
               "RelativeDocumentMoniker": "InventoryManagementSystem\\OrderModuleForm.cs",
               "ToolTip": "C:\\Users\\ASUS\\Desktop\\chsarpfinalproject\\InventoryManagementSystem\\InventoryManagementSystem\\OrderModuleForm.cs",
               "RelativeToolTip": "InventoryManagementSystem\\OrderModuleForm.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAALQAAACCAAAAAAAAAA==",
+              "ViewState": "AgIAAGUAAAAAAAAAAAAUwLwAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-24T15:30:24.658Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 12,
               "Title": "OrderModuleForm.cs [Design]",
               "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\chsarpfinalproject\\InventoryManagementSystem\\InventoryManagementSystem\\OrderModuleForm.cs",
               "RelativeDocumentMoniker": "InventoryManagementSystem\\OrderModuleForm.cs",
@@ -388,19 +386,18 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 24,
               "Title": "OrderForm.cs [Design]",
               "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\chsarpfinalproject\\InventoryManagementSystem\\InventoryManagementSystem\\OrderForm.cs",
               "RelativeDocumentMoniker": "InventoryManagementSystem\\OrderForm.cs",
               "ToolTip": "C:\\Users\\ASUS\\Desktop\\chsarpfinalproject\\InventoryManagementSystem\\InventoryManagementSystem\\OrderForm.cs [Design]",
               "RelativeToolTip": "InventoryManagementSystem\\OrderForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-24T14:50:00.423Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-11-24T14:50:00.423Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 21,
               "Title": "ProductModuleForm.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\chsarpfinalproject\\InventoryManagementSystem\\InventoryManagementSystem\\ProductModuleForm.cs",
               "RelativeDocumentMoniker": "InventoryManagementSystem\\ProductModuleForm.cs",
@@ -408,37 +405,35 @@
               "RelativeToolTip": "InventoryManagementSystem\\ProductModuleForm.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAGsAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-24T13:10:35.843Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-24T13:10:35.843Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 22,
               "Title": "ProductModuleForm.cs [Design]",
               "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\chsarpfinalproject\\InventoryManagementSystem\\InventoryManagementSystem\\ProductModuleForm.cs",
               "RelativeDocumentMoniker": "InventoryManagementSystem\\ProductModuleForm.cs",
               "ToolTip": "C:\\Users\\ASUS\\Desktop\\chsarpfinalproject\\InventoryManagementSystem\\InventoryManagementSystem\\ProductModuleForm.cs [Design]",
               "RelativeToolTip": "InventoryManagementSystem\\ProductModuleForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-24T13:10:32.574Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-11-24T13:10:32.574Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 9,
               "Title": "ProductForm.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\chsarpfinalproject\\InventoryManagementSystem\\InventoryManagementSystem\\ProductForm.cs",
               "RelativeDocumentMoniker": "InventoryManagementSystem\\ProductForm.cs",
               "ToolTip": "C:\\Users\\ASUS\\Desktop\\chsarpfinalproject\\InventoryManagementSystem\\InventoryManagementSystem\\ProductForm.cs",
               "RelativeToolTip": "InventoryManagementSystem\\ProductForm.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEIAAAA3AAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwEIAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-24T12:49:56.309Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 10,
               "Title": "ProductForm.cs [Design]",
               "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\chsarpfinalproject\\InventoryManagementSystem\\InventoryManagementSystem\\ProductForm.cs",
               "RelativeDocumentMoniker": "InventoryManagementSystem\\ProductForm.cs",
@@ -450,7 +445,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 20,
               "Title": "UserForm.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\chsarpfinalproject\\InventoryManagementSystem\\InventoryManagementSystem\\UserForm.cs",
               "RelativeDocumentMoniker": "InventoryManagementSystem\\UserForm.cs",
@@ -458,12 +453,11 @@
               "RelativeToolTip": "InventoryManagementSystem\\UserForm.cs",
               "ViewState": "AgIAACYAAAAAAAAAAAAYwEsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-23T10:43:25.997Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-23T10:43:25.997Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 18,
               "Title": "UserModuleForm.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\chsarpfinalproject\\InventoryManagementSystem\\InventoryManagementSystem\\UserModuleForm.cs",
               "RelativeDocumentMoniker": "InventoryManagementSystem\\UserModuleForm.cs",
@@ -471,24 +465,22 @@
               "RelativeToolTip": "InventoryManagementSystem\\UserModuleForm.cs",
               "ViewState": "AgIAACAAAAAAAAAAAAAgwDkAAABMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-21T11:59:11.699Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-21T11:59:11.699Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 17,
               "Title": "UserForm.cs [Design]",
               "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\chsarpfinalproject\\InventoryManagementSystem\\InventoryManagementSystem\\UserForm.cs",
               "RelativeDocumentMoniker": "InventoryManagementSystem\\UserForm.cs",
               "ToolTip": "C:\\Users\\ASUS\\Desktop\\chsarpfinalproject\\InventoryManagementSystem\\InventoryManagementSystem\\UserForm.cs [Design]",
               "RelativeToolTip": "InventoryManagementSystem\\UserForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-21T10:41:49.55Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-11-21T10:41:49.55Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 28,
               "Title": "MainForm.Designer.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\chsarpfinalproject\\InventoryManagementSystem\\InventoryManagementSystem\\MainForm.Designer.cs",
               "RelativeDocumentMoniker": "InventoryManagementSystem\\MainForm.Designer.cs",
@@ -496,11 +488,12 @@
               "RelativeToolTip": "InventoryManagementSystem\\MainForm.Designer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-21T08:25:25.776Z"
+              "WhenOpened": "2024-11-21T08:25:25.776Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 31,
               "Title": "CustomerButton.Designer.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\chsarpfinalproject\\InventoryManagementSystem\\InventoryManagementSystem\\CustomerButton.Designer.cs",
               "RelativeDocumentMoniker": "InventoryManagementSystem\\CustomerButton.Designer.cs",
@@ -508,11 +501,12 @@
               "RelativeToolTip": "InventoryManagementSystem\\CustomerButton.Designer.cs",
               "ViewState": "AgIAAA8AAAAAAAAAAAAswCYAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-21T08:10:32.453Z"
+              "WhenOpened": "2024-11-21T08:10:32.453Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 30,
               "Title": "CustomerButton.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\chsarpfinalproject\\InventoryManagementSystem\\InventoryManagementSystem\\CustomerButton.cs",
               "RelativeDocumentMoniker": "InventoryManagementSystem\\CustomerButton.cs",
@@ -520,28 +514,30 @@
               "RelativeToolTip": "InventoryManagementSystem\\CustomerButton.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-21T08:05:06.268Z"
+              "WhenOpened": "2024-11-21T08:05:06.268Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 3,
               "Title": "CustomerButton.cs [Design]",
               "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\chsarpfinalproject\\InventoryManagementSystem\\InventoryManagementSystem\\CustomerButton.cs",
               "RelativeDocumentMoniker": "InventoryManagementSystem\\CustomerButton.cs",
               "ToolTip": "C:\\Users\\ASUS\\Desktop\\chsarpfinalproject\\InventoryManagementSystem\\InventoryManagementSystem\\CustomerButton.cs [Design]",
               "RelativeToolTip": "InventoryManagementSystem\\CustomerButton.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-21T08:04:46.809Z"
+              "WhenOpened": "2024-11-21T08:04:46.809Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 13,
               "Title": "MainForm.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\chsarpfinalproject\\InventoryManagementSystem\\InventoryManagementSystem\\MainForm.cs",
               "RelativeDocumentMoniker": "InventoryManagementSystem\\MainForm.cs",
               "ToolTip": "C:\\Users\\ASUS\\Desktop\\chsarpfinalproject\\InventoryManagementSystem\\InventoryManagementSystem\\MainForm.cs",
               "RelativeToolTip": "InventoryManagementSystem\\MainForm.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAQwCwAAABTAAAAAAAAAA==",
+              "ViewState": "AgIAADIAAAAAAAAAAAA9wCwAAABTAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-20T21:33:24.463Z",
               "EditorCaption": ""

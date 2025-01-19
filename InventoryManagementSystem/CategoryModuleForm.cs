@@ -26,7 +26,7 @@ namespace InventoryManagementSystem
 
             try
             {
-
+                //category daxil etmek
                 if (MessageBox.Show("Are you sure you want to save this category?", "Saving Records", MessageBoxButtons.YesNo, MessageBoxIcon.Question) == DialogResult.Yes)
                 {
                     cm = new SqlCommand("INSERT INTO tbCategory (catname) VALUES(@catname)", con);
@@ -56,7 +56,7 @@ namespace InventoryManagementSystem
 
         private void pictureBoxClose_Click(object sender, EventArgs e)
         {
-            this.Dispose();
+            this.Dispose();//exit application
         }
 
         private void btnUpdate_Click(object sender, EventArgs e)
